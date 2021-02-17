@@ -3,28 +3,28 @@
 
 ## SEO Grundeinstellungen von Joomla!
 
-- [ ] Suchmaschinenfreundliche URL
-- [ ] URL-Rewrite nutzen
-- [ ] Dateiendung an URL anfügen deaktivieren
-- [ ] Unicode-Aliase
-- [ ] Seitenname auch im Titel (besser nein)
-- [ ] GZIP-Komprimierung aktivieren
-- [ ] PHP7 Check
-- [ ] Alle Maßnahmen überprüfen
+- [x] Suchmaschinenfreundliche URL
+- [x] URL-Rewrite nutzen
+- [x] Dateiendung an URL anfügen deaktivieren
+- [x] Unicode-Aliase
+- [x] Seitenname auch im Titel (besser nein)
+- [x] GZIP-Komprimierung aktivieren
+- [x] PHP7 Check
+- [x] Alle Maßnahmen überprüfen
 
 ## OnPage Optimierungen
 
-- [ ] Meta-Titel
-- [ ] Meta-Beschreibungen
-- [ ] Content-Optimierung
-- [ ] H1- bis Hx-Überschriften
-- [ ] Bilder
-- [ ] Alle Maßnahmen überprüfen
+- [x] Meta-Titel
+- [x] Meta-Beschreibungen
+- [x] Content-Optimierung
+- [x] H1- bis Hx-Überschriften
+- [x] Bilder optimieren
+- [x] Alle Maßnahmen überprüfen
 
 ## SEO-freundliche Erweiterungen für Joomla!
 
-- [ ] Sitemap
-- [ ] Alle Maßnahmen überprüfen
+- [x] Sitemap
+- [x] Alle Maßnahmen überprüfen
 
 
 ### optimaler Meta-Title
